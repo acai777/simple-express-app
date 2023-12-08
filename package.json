@@ -1,0 +1,14 @@
+{
+  "name": "simple-express-app",
+  "version": "1.0.0",
+  "description": "This is a simple Express app to be used in demo setting up a Virtual Private Server. The relevant tutorial can be found [here](https://www.youtube.com/watch?v=rXnjyo2NIHI)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arno Cai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
